@@ -1,5 +1,5 @@
 Download binaries here. (FOLLOW INSTRUCTIONS)
-
+https://github.com/LinuxBeaver/Ocean-s-Surface---Gimp-background-design-plugin/releases/tag/Ocean_Surface_gimp_plugin_for_background_design
 
 # Ocean's surface - Gimp plugin for background design.
 ![image](https://github.com/LinuxBeaver/Ocean-s-Surface---Gimp-background-design-plugin/assets/78667207/ae127e44-8f4f-4560-9edc-d970a45e2da4)
