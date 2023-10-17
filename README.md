@@ -47,9 +47,3 @@ ninja -C build
 ## Extra preview of this based Gimp plugin
 ![image](https://github.com/LinuxBeaver/Ocean-s-Surface---Gimp-background-design-plugin/assets/78667207/ffd0210a-94dc-4bc1-a2a6-c8b61a9bf632)
 
-
-
-## Enjoy
-
-![image](https://github.com/LinuxBeaver/GEGL-glossy-balloon-text-styling/assets/78667207/0ab62e35-33bb-4a88-a420-37a3d721e56f)
-
