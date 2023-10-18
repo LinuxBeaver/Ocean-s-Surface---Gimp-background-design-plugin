@@ -36,7 +36,7 @@ bloom strength=30
 #ifdef GEGL_PROPERTIES
 
 
-property_double (xsize, _("Solid Noise Horizontal"), 4.0)
+property_double (xnoise, _("Solid Noise Horizontal"), 4.0)
    description (_("Solid Noise's horizontal size setting for the water"))
    value_range (1.0, 9.0)
    ui_range    (1.0, 9.0)
